@@ -4,3 +4,8 @@ import { shallow, mount } from 'enzyme'
 import MainContainer from '../containers/MainContainer';
 
 
+it('MainContainer', () => {     
+         expect(
+          true
+        ).toBe(true);
+});
