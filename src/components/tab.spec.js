@@ -5,3 +5,9 @@ import Tab from '../components/tab';
 import ReactTestUtils from 'react-dom/test-utils';
 import {findDOMNode} from 'react-dom';
 
+
+it('tav', () => {     
+         expect(
+          true
+        ).toBe(true);
+});
